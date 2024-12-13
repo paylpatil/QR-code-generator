@@ -1,29 +1,29 @@
-# QR-code-generator
-A simple and efficient QR Code Generator built using Python. This mini-project allows users to create QR codes for text, URLs, or any other information quickly and easily
+QR Code Generation Mini Project
 
-#Features
-*Generate QR codes for plain text, URLs, or custom data.
-*Save generated QR codes as image files (e.g., PNG or JPG).
-*User-friendly interface with minimal setup.
-*Lightweight and perfect for beginners learning Python.
+## Overview
+This project is a Python-based QR Code Generator that allows users to create QR codes for different types of input data, such as URLs, text, and more. The application is simple to use and can save QR codes as image files for sharing and reuse.
 
-#Tech Stack
-*Python: Core programming language.
-*Libraries: qrcode for QR code generation, Pillow for image handling.
+---
 
-#How to Use
-*Clone the repository:
-*bash
-*Code
-         git clone https://github.com/your-username/qr-code-generator.git  
-         cd qr-code-generator  
-         
-#Install dependencies:
-*bash
-*Code
-         pip install -r requirements.txt  
-         
-#Run the script:
-*bash
-*Code
-           python main.py  
+## Features
+- Generate QR codes for:
+  - Text or messages
+  - Website URLs
+  - Contact details 
+  - Numbers (e.g., phone numbers)
+---
+
+## Tech Stack
+- Programming Language: Python
+- **Key Libraries**:
+  - [`qrcode`]- For QR code creation.
+  - [`Pillow`]- For image manipulation.
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/qr-code-generator.git
+   cd qr-code-generator
+
