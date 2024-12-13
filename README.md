@@ -24,6 +24,14 @@ This project is a Python-based QR Code Generator that allows users to create QR 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone [https://github.com/paylpatil/QR-code-generator.git]
    cd qr-code-generator
+## Screenshots
+
+### QR Code Generation Form
+![QR Code Form](screenshots/Q1.png)
+
+### Generated QR Code
+![Generated QR Code](screenshots/Q2.png)
+
 
